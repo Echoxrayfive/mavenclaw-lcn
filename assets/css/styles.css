@@ -1,0 +1,14 @@
+.imgtop {
+  width: 50%;
+  height: auto;
+}
+
+.embed-responsive-chat, .embed-responsive-chat iframe, .embed-responsive-chat embed, .embed-responsive-chat object {
+  border: 0 none;
+  bottom: 0;
+  height: 100%;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+
